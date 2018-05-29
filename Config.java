@@ -1,0 +1,1 @@
+package com.itszt.DDDrItszt.controller;import org.springframework.context.annotation.Configuration;/** * Created by 陈仲奎 on 2018/5/16. */@Configurationpublic class Config {}
